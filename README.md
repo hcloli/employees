@@ -2,7 +2,7 @@
 
 ## Overview
 
-The single-page web application that shows list of company employees and their details
+A node API server that expose list of employees
 
 
 ## Prerequisites
