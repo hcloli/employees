@@ -31,9 +31,11 @@ URL: ```http://localhost:8080/api/all```
 
 #### Get single employee
 URL: ```http://localhost:8080/api/employee/<employee_id>```
+
 Example: ```http://localhost:8080/api/employee/lCdAVCUjuEpBXhsA```
 
 #### Get employee image
 URL: ```http://localhost:8080/assets/images/<image_file>```
+
 Example: ```http://localhost:8080/assets/images/1.jpg```
 
