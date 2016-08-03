@@ -1,0 +1,14 @@
+{
+    "name": "Employees",
+    "version": "1.0.0",
+    "description": "Simple node server for serving employees information",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.13.4",
+        "nedb": "^1.8.0"
+    }
+}
